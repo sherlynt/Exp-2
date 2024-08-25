@@ -43,7 +43,8 @@ int main()
      return 0;
 }
 ```
-OUTPUT 1:
+OUTPUT 1: ![image](https://github.com/user-attachments/assets/8dfe30d4-e5cb-43fd-aabf-f72c09d3f30d)
+
 
 ```
 #include <iostream>
@@ -68,7 +69,8 @@ int main()
     return 0;
 }
 ```
-OUTPUT 2:
+OUTPUT 2: ![image](https://github.com/user-attachments/assets/7f3b78c0-3405-4985-bf62-d9c4035ab82c)
+
 
 ```
 #include <iostream>
@@ -92,7 +94,7 @@ int main(){
     return 0;
 }
 ```
-OUTPUT 3:
+OUTPUT 3:![image](https://github.com/user-attachments/assets/67bc797d-5f29-4f04-a3a8-ff66d84fa7c0)
 
 
 CONCLUSION:
